@@ -12,8 +12,11 @@ Like all good secret agent apps, this program is based on *command line*.
 * Reporting features
 
 # Screenshots
- - [Ask for User Input](ask-for-user-input)
- - [View Agent File](view-agent-file)
+ - [Ask for User Input](#ask-for-user-input)
+ - [View Agent File](#view-agent-file)
+ - [Create a team](#create-team)
+ - [Show teams](#show-teams)
+ - [Reporting features](#report-generation)
 
 ## Ask for user input
 Displays a menu with all available app functions.
