@@ -1,8 +1,8 @@
 # Global "Secret Agent" Corporation App
 
-As the director of the world's leading SuperHero Agency, your mission (should you choose to accept) is to recruit secret agents from around the world, and assign them to secret missions. All information about agents is confidential and encrypted and can only be viewed with a special decryption key.
+As the director of the world's leading SuperHero Agency, your mission (*should you choose to accept*) is to recruit secret agents from around the world, and assign them to secret missions. All information about agents is confidential and encrypted and can only be viewed with a special decryption key.
 
-Like all good secret agent apps, this program is based on *command line*.
+Like all good secret agent apps, this program is based on `command line`
 
 # Technologies + Features
 
