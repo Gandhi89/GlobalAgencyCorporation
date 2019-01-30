@@ -17,7 +17,7 @@ Like all good secret agent apps, this program is based on *command line*.
 Displays a menu with all available app functions.
 
 <table><tr><td>
-    <img src="/images/image1.jpg" />
+    <img src="/images/img1.jpg" />
 </td></tr></table>
 
 ![](images/img1.jpg)
