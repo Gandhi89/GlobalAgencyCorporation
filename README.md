@@ -20,36 +20,50 @@ Displays a menu with all available app functions.
     <img src="/images/img1.jpg" />
 </td></tr></table>
 
-![](images/img1.jpg)
-
 ## View Agent File 
 
 Decrypts an agent's information and shows it to the user.
 
-![](images/img2.jpg)
+<table><tr><td>
+    <img src="/images/img2.jpg" />
+</td></tr></table>
 
 ## Create Team
 
 Assign a secret agent to a team.
 
-![](images/img3.jpg)
+<table><tr><td>
+    <img src="/images/img3.jpg" />
+</td></tr></table>
+
 
 ## Show Teams
 
 Display the agents that belong to a specific team.
 
-![](images/img4.jpg)
+<table><tr><td>
+    <img src="/images/img4.jpg" />
+</td></tr></table>
 
 ## Report Generation
 
 ### Report 1: Displaying the Name of all Teams
 
-![](images/img5.jpg)
+<table><tr><td>
+    <img src="/images/img5.jpg" />
+</td></tr></table>
+
 
 ### Report 2: Display Relationship between a Team and an Agency
 
-![](images/img6.jpg)
+<table><tr><td>
+    <img src="/images/img6.jpg" />
+</td></tr></table>
+
 
 ### Report 3: Display Relationship between Team-Agency-Agent
 
-![](images/img7.jpg)
+<table><tr><td>
+    <img src="/images/img7.jpg" />
+</td></tr></table>
+
