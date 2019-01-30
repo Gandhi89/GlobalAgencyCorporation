@@ -16,7 +16,9 @@ Like all good secret agent apps, this program is based on *command line*.
 ## Ask for user input
 Displays a menu with all available app functions.
 
-<img src="images/img1.jpg" style="border:1px solid black">
+<table><tr><td>
+    <img src="/images/image1.jpg" />
+</td></tr></table>
 
 ![](images/img1.jpg)
 
